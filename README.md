@@ -11,6 +11,11 @@ git clone https://github.com/user/project.git
 cd project
 
 # Step 3: Make changes and save files
+# ✅ Step 3: Make changes and save files
+# (Open the files in your code editor like VS Code and edit them.)
+# Example (if using VS Code):
+code .
+
 
 # Step 4: Stage changes
 git add .
